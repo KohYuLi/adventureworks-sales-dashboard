@@ -1,0 +1,8 @@
+# OS clutter
+.DS_Store
+Thumbs.db
+*.tmp
+
+# Power BI local files (for .pbip projects)
+**/.pbi/localSettings.json
+**/.pbi/cache.abf
